@@ -2,7 +2,9 @@
 Processual-atividades
 [exercicios 21RESPOSTA (21).md](https://github.com/user-attachments/files/27006385/exercicios.21RESPOSTA.21.md)
 
-[exercicios20 Respondido (20).md](https://github.com/user-attachments/files/27006387/exercicios20.Respondido.20.md)[EXERCICIOS 1 RESPONDIDO.md](https://github.com/user-attachments/files/27006413/EXERCICIOS.1.RESPONDIDO.md)
+[exercicios20 Respondido (20).md](https://github.com/user-attachments/files/27006387/exercicios20.Respondido.20.md)
+
+[EXERCICIOS 1 RESPONDIDO.md](https://github.com/user-attachments/files/27006413/EXERCICIOS.1.RESPONDIDO.md)
 
 [exercicios 2 Respondido(2).md](https://github.com/user-attachments/files/27006411/exercicios.2.Respondido.2.md)
 
